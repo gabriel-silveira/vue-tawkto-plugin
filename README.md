@@ -1,6 +1,11 @@
 # Vue Tawk.to Plugin
 > Plugin to use **Tawk.to** in Vue.js applications
 
+## Before using
+Set you Tawk.to source variable inside the plugin script:
+
+`const tawkSrc = 'TAWKTO_SRC';`
+
 ## How to use
 First, we have to import the plugin to make it global inside Vue application:
 
