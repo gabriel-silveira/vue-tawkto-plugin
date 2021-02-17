@@ -1,6 +1,6 @@
 import Vue from 'vue';
 
-const tawkSrc = 'https://embed.tawk.to/602bdaff918aa261273f68b9/1eulkutkg';
+const tawkSrc = 'TAWKTO_SRC'; // provided by your tawk.to account
 
 const tawkTo = {
   install(VueInstance) {
