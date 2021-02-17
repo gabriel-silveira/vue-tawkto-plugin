@@ -1,5 +1,5 @@
 # Vue Tawk.to Plugin
-Plugin to use Tawkto in Vuejs applications
+> Plugin to use **Tawk.to** in Vue.js applications
 
 ## How to use
 First, we have to import the plugin to make it global inside Vue application:
