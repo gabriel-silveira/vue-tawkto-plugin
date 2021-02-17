@@ -2,7 +2,7 @@
 Plugin to use Tawkto in Vuejs applications
 
 ## How to use
-First, we have import the plugin to make it global inside Vue application:
+First, we have to import the plugin to make it global inside Vue application:
 
 `import 'plugins/tawkto.js';`
 
